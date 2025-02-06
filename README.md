@@ -27,6 +27,7 @@ ExpenseTracker/
 │   └── ExpenseItem.jsx       # Component for rendering a single expense with animation
 ├── utils/
 │   └── storage.js            # Utility functions for AsyncStorage (data persistence)
+|   └── firebase.js           # Utility functions for firebase
 └── app.json                  # Expo project configuration
 ```
 
